@@ -1,6 +1,6 @@
 // Problem 1
 
-// take input from the user
+// takeing input from the user
 const number = parseInt(prompt('Enter a positive integer: '));
 
 // checking if number is negative
